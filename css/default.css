@@ -1,0 +1,44 @@
+
+body {
+	background: #123;
+	border-top: 5px solid #000;
+	color: #333;
+	font-size: 11px;
+	padding: 20px 0 40px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-family: Georgia, serif;
+	font-weight: normal;
+	text-align: center;
+}
+
+h2.home {
+	padding: 20px 0 0;
+	padding-left: 20px;
+	text-align: left;
+}
+
+p {
+	overflow: hidden;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.container_12 {
+	background: #fff url(img/12_col.gif) repeat-y;
+	margin-bottom: 20px;
+}
+
+.container_16 {
+	background: #fff url(img/16_col.gif) repeat-y;
+}
